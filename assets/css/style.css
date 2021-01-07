@@ -1,0 +1,11 @@
+:root{
+    --color-pink: #E83E8C; 
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.color-fondo{
+    background-color: var(--color-pink);
+}
